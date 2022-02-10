@@ -15,7 +15,10 @@ Please follow train.py to prepare dataset, transform data into random fourier fe
 
 To run our codes, first download the HVTN dataset from [https://drive.google.com/file/d/1F21BFBcs9nFh4feoed1SEAJ0S89JPViA/view?usp=sharing](https://drive.google.com/file/d/1F21BFBcs9nFh4feoed1SEAJ0S89JPViA/view?usp=sharing). Then place the downloaded file in to a dicrectory.
 
-Then 
+Then change the line 12 of "train.py" to the location of your downloaded file.
+
+Finally, run "train.py"
+
 ```
 python train.py
 ```
