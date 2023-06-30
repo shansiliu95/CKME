@@ -1,10 +1,11 @@
-This is the official repository of our paper [Interpretable Single-Cell Set Classification with Kernel Mean Embeddings](https://arxiv.org/pdf/2201.07322.pdf).
+This is the official repository of our paper [Transparent Single-Cell Set Classification with Kernel Mean Embeddings](https://arxiv.org/pdf/2201.07322.pdf).
 
 ```
-@article{shan2022interpretable,
-  title={Interpretable Single-Cell Set Classification with Kernel Mean Embeddings},
-  author={Shan, Siyuan and Baskaran, Vishal and Yi, Haidong and Ranek, Jolene and Stanley, Natalie and Oliva, Junier},
-  journal={arXiv preprint arXiv:2201.07322},
+@inproceedings{shan2022transparent,
+  title={Transparent single-cell set classification with kernel mean embeddings},
+  author={Shan, Siyuan and Baskaran, Vishal Athreya and Yi, Haidong and Ranek, Jolene and Stanley, Natalie and Oliva, Junier B},
+  booktitle={Proceedings of the 13th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics},
+  pages={1--10},
   year={2022}
 }
 ```
